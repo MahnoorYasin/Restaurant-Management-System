@@ -37,11 +37,11 @@ The **Admin** has full access to the system, and their functionality includes:
 
 The **Employee** can perform the following tasks:
 
-1. **Login**: Employees log in with their credentials.
+1. **Login**: Employees log in the system.
 2. **Take Orders**: Employees can take customer orders from the menu and track the status of orders.
 3. **Table Reservations**: Employees can manage table reservations (reserve or cancel tables).
 4. **Order Management**: Employees can view and update orders, including canceling them or modifying order status.
-5. **Billing and Payments**: Employees manage billing, process payments, and generate receipts for customers.
+5. **Billing and Payments**: Employees manage billing and process payments.
 
 ---
 
@@ -89,7 +89,7 @@ The **Customer** role allows customers to interact with the system in the follow
 ## Usage
 
 After running the program, the system will prompt users to log in by selecting one of the following roles:
-- **Admin**: Will have access to the Admin Panel to manage employees, menus, orders, and view reports.
+- **Admin**: Will have access to the Admin Panel to manage employees and menus.
 - **Employee**: Will be able to take orders, manage reservations, handle billing, and interact with customers.
 - **Customer**: Can place orders, make reservations, pay bills, and provide feedback.
 
