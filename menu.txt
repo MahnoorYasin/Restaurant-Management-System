@@ -1,0 +1,10 @@
+Breakfast,Pancakes,5
+Breakfast,Waffles,6
+Breakfast,Eggs & Bacon,7
+Lunch,Burger,8
+Lunch,Sandwich,5.5
+Lunch,Caesar Salad,7.5
+Dinner,Steak,15
+Dinner,Spaghetti,12
+Dinner,Salmon,14
+Dinner,Rice,5
